@@ -113,6 +113,16 @@
       "types": [
         "Feu"
       ]
+    },
+    {
+      "id": 1608562915177,
+      "hp": 100,
+      "cp": 10,
+      "name": "Nouveau pokémon",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/151.png",
+      "types": [
+        "Psy"
+      ]
     }
   ]
 }
